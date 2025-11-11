@@ -1,8 +1,8 @@
-# Tailwind CSS & UI Library Collection
+# 🌟 Tailwind CSS & UI Library Collection
 
-Explore a curated list of **Tailwind CSS-based UI libraries** and components for faster design and development.
 
-## Tailwind CSS & UI Libraries
+ 
+## 🎨 Shadcn UI Libraries
 
 | Library | Description |
 |----------|--------------|
@@ -13,27 +13,11 @@ Explore a curated list of **Tailwind CSS-based UI libraries** and components for
 | [**shadcnui-blocks**](https://www.shadcnui-blocks.com/) | A library of predesigned UI blocks using Shadcn UI. |
 | [**kibo-ui**](https://www.kibo-ui.com/) | Professional-grade UI components and templates for Tailwind CSS. |
 | [**coss**](https://coss.com/origin) | Modern design system and Tailwind-based component kit. |
-
----
-
-## Customize Libraries
-
-Enhance your UI with beautiful, production-ready animation components and advanced customization options.
-
-| Library | Description |
-|----------|--------------|
 | [**Tweakcn**](https://tweakcn.com/) | A customizable Tailwind + Shadcn component library designed for creating modern, dynamic UIs. |
-
----
-
-## Animation Libraries
-
-Bring your UI to life with smooth, production-ready animation components.
-
-| Library | Description |
-|----------|--------------|
 | [**magicui**](https://magicui.design/) | A beautiful collection of animated UI elements powered by Tailwind CSS. |
-| [**aceternity**](https://ui.aceternity.com/) | Stunning motion-ready components for modern web interfaces. |
+| [**aceternity**](https://ui.aceternity.com/) | A beautiful collection of animated UI elements powered by Tailwind CSS. |
 
 ---
+
+
 
