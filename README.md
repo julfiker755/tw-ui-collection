@@ -1,5 +1,4 @@
-# 🌟 Tailwind CSS & UI Library Collection
-
+# 🚀 Tailwind CSS & UI Library Collection
 
  
 ## 🎨 Shadcn UI Libraries
@@ -20,4 +19,20 @@
 ---
 
 
+## 🌟 Essential UI Libraries
 
+
+| Library | Link | Description |
+|---------|------|-------------|
+| preline | [preline](https://preline.co/) | A collection of Preline UI components. |
+| navigateui | [navigateui](https://navigateui.com/) | A collection of NavigateUI components. |
+| Daisyui | [daisyui](https://daisyui.com) | A collection of DaisyUI components. |
+| Headlessui | [headlessui](https://headlessui.com) | A collection of HeadlessUI components. |
+| Flowbite | [flowbite](https://flowbite.com) | A collection of Flowbite components. |
+| Tailwindcomponents | [tailwindcomponents](https://tailwindcomponents.com) | A collection of TailwindComponents. |
+| Mambaui | [mambaui](https://mambaui.com) | A collection of Mambaui components. |
+| Merakiui | [merakiui](https://merakiui.com) | A collection of MerakiUI components. |
+| flowrift | [flowrift](https://flowrift.com/c/shopping-cart/1DPLi?view=preview) | A collection of Flowrift components. |
+| Keep-React | [keep-react](https://react.keepdesign.io/) | A collection of Keep React components. |
+| Zenui | [zenui](https://zenui.net/) | A collection of Zenui components. |
+| WindUi | [wind-ui](https://wind-ui.com) | A collection of WindUi components. |
