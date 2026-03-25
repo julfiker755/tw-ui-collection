@@ -1,44 +1,44 @@
 # 🚀 Tailwind CSS & UI Library Collection
 
- 
-## 🎨 Shadcn UI Libraries
-
-| Library | Description |
-|----------|--------------|
-| [**shadcn**](https://ui.shadcn.com/) | Elegant, reusable components built with Tailwind CSS and Radix UI. |
-| [**Shadcn.io**](https://www.shadcn.io/) | Official Shadcn UI components and templates. |
-| [**shadcnstudio**](https://shadcnstudio.com/) | Prebuilt Shadcn-inspired layouts and advanced UI blocks. |
-| [**reui**](https://reui.io) | A sleek React + Tailwind UI component collection. |
-| [**shadcnui-blocks**](https://www.shadcnui-blocks.com/) | A library of predesigned UI blocks using Shadcn UI. |
-| [**kibo-ui**](https://www.kibo-ui.com/) | Professional-grade UI components and templates for Tailwind CSS. |
-| [**coss**](https://coss.com/origin) | Modern design system and Tailwind-based component kit. |
-| [**jollyui**](https://www.jollyui.dev/docs/components/color) | A beautiful collection jollyui powered by Tailwind CSS. |
-| [**Tweakcn**](https://tweakcn.com/) | A customizable Tailwind + Shadcn component library designed for creating modern, dynamic UIs. |
-| [**magicui**](https://magicui.design/) | A beautiful collection of animated UI elements powered by Tailwind CSS. |
-| [**aceternity**](https://ui.aceternity.com/) | A beautiful collection of animated UI elements powered by Tailwind CSS. |
-| [**mapcn**](https://mapcn.vercel.app/) | A beautiful collection of mapcn UI elements powered by Tailwind CSS. |
-| [**pdfx**](https://pdfx.akashpise.dev/) | A beautiful collection of mapcn UI elements pdfx |
-
+A curated collection of modern **Tailwind CSS UI libraries, components, and design systems** to help you build beautiful and scalable user interfaces faster.
 
 ---
 
+## 🎨 Shadcn UI-Based Libraries
+
+| Library | Description |
+|---------|-------------|
+| [shadcn](https://ui.shadcn.com/) | A set of beautifully designed, accessible, and reusable components built with Tailwind CSS and Radix UI. |
+| [shadcn.io](https://www.shadcn.io/) | Official Shadcn UI resources, including components and templates. |
+| [shadcnstudio](https://shadcnstudio.com/) | A collection of advanced layouts and prebuilt UI blocks inspired by Shadcn UI. |
+| [reui](https://reui.io) | A modern React component library built with Tailwind CSS for clean and scalable interfaces. |
+| [shadcnui-blocks](https://www.shadcnui-blocks.com/) | Pre-designed UI sections and blocks using Shadcn UI principles. |
+| [kibo-ui](https://www.kibo-ui.com/) | Professional-grade UI components and templates powered by Tailwind CSS. |
+| [coss](https://coss.com/origin) | A modern design system and component library built with Tailwind CSS. |
+| [jollyui](https://www.jollyui.dev/docs/components/color) | A visually appealing Tailwind CSS component library with elegant design patterns. |
+| [tweakcn](https://tweakcn.com/) | A customizable Tailwind + Shadcn-based component library for building dynamic UIs. |
+| [magicui](https://magicui.design/) | A collection of animated and interactive UI components using Tailwind CSS. |
+| [aceternity](https://ui.aceternity.com/) | High-quality animated UI components designed for modern web applications. |
+| [mapcn](https://mapcn.vercel.app/) | A set of Tailwind CSS-based UI components with a focus on modern layouts. |
+| [pdfx](https://pdfx.akashpise.dev/) | UI components and utilities focused on building PDF-related interfaces. |
+
+---
 
 ## 🌟 Essential UI Libraries
 
+| Library | Description |
+|---------|-------------|
+| [preline](https://preline.co/) | A comprehensive collection of Tailwind CSS components and interactive UI elements. |
+| [navigateui](https://navigateui.com/) | A modern UI component library designed for smooth navigation experiences. |
+| [daisyUI](https://daisyui.com) | A popular Tailwind CSS component library with ready-to-use UI elements and themes. |
+| [headlessui](https://headlessui.com) | Completely unstyled, accessible UI components designed to integrate seamlessly with Tailwind CSS. |
+| [flowbite](https://flowbite.com) | A robust component library built on Tailwind CSS with interactive elements. |
+| [tailwindcomponents](https://tailwindcomponents.com) | A community-driven collection of Tailwind CSS components and templates. |
+| [mambaui](https://mambaui.com) | A collection of free, responsive UI components built with Tailwind CSS. |
+| [merakiui](https://merakiui.com) | Beautiful and modern Tailwind CSS components for web interfaces. |
+| [flowrift](https://flowrift.com/c/shopping-cart/1DPLi?view=preview) | A premium-style collection of Tailwind UI components and templates. |
+| [keep-react](https://react.keepdesign.io/) | A React-based UI library with Tailwind CSS support and reusable components. |
+| [zenui](https://zenui.net/) | A lightweight and clean UI component library built with Tailwind CSS. |
+| [wind-ui](https://wind-ui.com) | A modern UI kit offering ready-to-use Tailwind CSS components. |
 
-| Library | Link | Description |
-|---------|------|-------------|
-| preline | [preline](https://preline.co/) | A collection of Preline UI components. |
-| navigateui | [navigateui](https://navigateui.com/) | A collection of NavigateUI components. |
-| Daisyui | [daisyui](https://daisyui.com) | A collection of DaisyUI components. |
-| Headlessui | [headlessui](https://headlessui.com) | A collection of HeadlessUI components. |
-| Flowbite | [flowbite](https://flowbite.com) | A collection of Flowbite components. |
-| Tailwindcomponents | [tailwindcomponents](https://tailwindcomponents.com) | A collection of TailwindComponents. |
-| Mambaui | [mambaui](https://mambaui.com) | A collection of Mambaui components. |
-| Merakiui | [merakiui](https://merakiui.com) | A collection of MerakiUI components. |
-| flowrift | [flowrift](https://flowrift.com/c/shopping-cart/1DPLi?view=preview) | A collection of Flowrift components. |
-| Keep-React | [keep-react](https://react.keepdesign.io/) | A collection of Keep React components. |
-| Zenui | [zenui](https://zenui.net/) | A collection of Zenui components. |
-| WindUi | [wind-ui](https://wind-ui.com) | A collection of WindUi components. |
-
-
+---
