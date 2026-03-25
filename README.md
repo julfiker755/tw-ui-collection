@@ -17,6 +17,7 @@
 | [**magicui**](https://magicui.design/) | A beautiful collection of animated UI elements powered by Tailwind CSS. |
 | [**aceternity**](https://ui.aceternity.com/) | A beautiful collection of animated UI elements powered by Tailwind CSS. |
 | [**mapcn**](https://mapcn.vercel.app/) | A beautiful collection of mapcn UI elements powered by Tailwind CSS. |
+| [**pdfx**](https://pdfx.akashpise.dev/) | A beautiful collection of mapcn UI elements pdfx |
 
 
 ---
