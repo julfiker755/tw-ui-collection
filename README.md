@@ -21,6 +21,7 @@ A curated collection of modern **Tailwind CSS UI libraries, components, and desi
 | [aceternity](https://ui.aceternity.com/) | High-quality animated UI components designed for modern web applications. |
 | [mapcn](https://mapcn.vercel.app/) | A set of Tailwind CSS-based UI components with a focus on modern layouts. |
 | [pdfx](https://pdfx.akashpise.dev/) | UI components and utilities focused on building PDF-related interfaces. |
+| [seraui](https://seraui.com/) | UI components and utilities focused on seraui interfaces. |
 
 ---
 
