@@ -22,6 +22,7 @@ A curated collection of modern **Tailwind CSS UI libraries, components, and desi
 | [mapcn](https://mapcn.vercel.app/) | A set of Tailwind CSS-based UI components with a focus on modern layouts. |
 | [pdfx](https://pdfx.akashpise.dev/) | UI components and utilities focused on building PDF-related interfaces. |
 | [seraui](https://seraui.com/) | UI components and utilities focused on seraui interfaces. |
+| [aceternity](https://ui.aceternity.com/components/pointer-highlight) | UI components and utilities focused on aceternity |
 
 ---
 
